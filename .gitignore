@@ -1,0 +1,16 @@
+
+# Byte-compiled / virtual environment / logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.wav
+*.mp3
+.venv/
+env/
+venv/
+kokoro311_env/
+kokoro_env_testing/
+kokoro_env/
+*.log
+.DS_Store
