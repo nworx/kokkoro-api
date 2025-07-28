@@ -7,7 +7,7 @@ This is a Text-to-Speech API using Kokoro and FastAPI.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/kokoro-tts-api.git](https://github.com/nworx/kokkoro-api.git)
+git clone [https://github.com/nworx/kokkoro-api.git]
 cd kokkoro-api
 ```
 
